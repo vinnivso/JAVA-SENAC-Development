@@ -1,4 +1,4 @@
-package org.vinnivso.missao02;
+package org.vinnivso.Missao2;
 
 import java.util.Scanner;
 

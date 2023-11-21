@@ -1,4 +1,4 @@
-package org.vinnivso.missao01;
+package org.vinnivso.Missao1;
 
 /**
  * @author vinnivso
