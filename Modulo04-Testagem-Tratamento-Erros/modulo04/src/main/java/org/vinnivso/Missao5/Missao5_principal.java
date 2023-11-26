@@ -7,7 +7,9 @@ import java.util.Scanner;
  */
 public class Missao5_principal {
     public static void main(String[] args) {
-        Media_idade_Funcionarios();
+        Missao5_Tratamento_Excecao execution = new Missao5_Tratamento_Excecao();
+        execution.Imprime_valores();
+        //Media_idade_Funcionarios();
     }
     public static void Media_idade_Funcionarios() {
         int[] idade_funcionarios = new int[6];
